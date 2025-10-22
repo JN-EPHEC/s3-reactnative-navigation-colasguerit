@@ -10,7 +10,7 @@ import { Ionicons } from "@expo/vector-icons";
  
 import CourseListScreen from "./screens/CourseListScreen";
 import CourseDetailScreen from "./screens/CourseDetailScreen";
-import WishlistScreen from "./screens/WishlistScreen";
+import WishlistScreen from "./screens/WishListScreen";
 import ProfileScreen from "./screens/ProfileScreen";
 import { Pressable } from "react-native";
  
